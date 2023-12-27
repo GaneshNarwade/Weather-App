@@ -15,7 +15,7 @@ This is a weather app that helps users get real-time weather information for the
 - HTML, CSS, and JavaScript for building the frontend
 - Ninjas API for fetching current weather data
 
-Please make sure to replace `<YOUR_API_KEY>` with your actual OpenWeatherMap API key and `<YOUR_NINJA_API_KEY>` with your actual Ninja API key in the `.env` file before running the app.
+Please make sure to replace `<YOUR_API_KEY>` with your actual API key and `<YOUR_NINJA_API_KEY>` with your actual Ninja API key in the `.env` file before running the app.
 
 ## Contributing
 
